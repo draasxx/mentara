@@ -1,0 +1,7 @@
+{
+  "name": "Mentara",
+  "description": "Futuristic AI-powered mental health companion designed to help you recognize, manage, and heal your emotional well-being with empathy and science-backed micro-therapy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
